@@ -154,7 +154,7 @@ body {
 }
 
 .lista__link a:hover {
-    color: var(--cinza-secundario);
+    color: var(--botao-azul);
 }
 
 @media screen and (max-width: 728px) {
